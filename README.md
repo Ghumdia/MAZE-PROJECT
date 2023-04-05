@@ -29,12 +29,3 @@ Scores are posted `@localhost` on the listed port.
 
 ---
 
-## Development Team
-For development project notes and test plan, see documentation in `./Docs/project.md`.  
-
-ACIT2515 Object-Oriented Programming in Python
-Group Members|Job Description
-------------|------------------------
-Alex Visca | Development team leader
-John Maloney| Developer, Documentation
-Sukhmanpreet| Developer, QA and testing
